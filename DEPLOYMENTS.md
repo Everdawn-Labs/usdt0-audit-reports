@@ -114,7 +114,6 @@ This document lists all currently deployed USDT0 contracts across different chai
 | OFT | TransparentUpgradeableProxy | [`0x904861a24F30EC96ea7CFC3bE9EA4B476d237e98`](https://purrsec.com/address/0x904861a24F30EC96ea7CFC3bE9EA4B476d237e98) |
 | OFT | OUpgradeable | [`0xcDd68D15372378b04300820c1d3d0237886d283f`](https://purrsec.com/address/0xcDd68D15372378b04300820c1d3d0237886d283f) |
 | OFT | ProxyAdmin | [`0xa882c21C9df00958A958cde96f2B2Ae8FB4315B1`](https://purrsec.com/address/0xa882c21C9df00958A958cde96f2B2Ae8FB4315B1) |
-| OFT | HyperLiquidComposer | [`0xcb768e263FB1C62214E7cab4AA8d036D76dc59CC`](https://purrsec.com/address/0xcb768e263FB1C62214E7cab4AA8d036D76dc59CC) |
 | Token | TransparentUpgradeableProxy | [`0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb`](https://purrsec.com/address/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb) |
 | Token | HyperliquidExtension | [`0xF555A12bfFAEf20cC201A74ae6513Cb4aaDB34B9`](https://purrsec.com/address/0xF555A12bfFAEf20cC201A74ae6513Cb4aaDB34B9) |
 | Token | ProxyAdmin | [`0x779Ded0c9e1022225f8E0630b35a9b54bE713736`](https://purrsec.com/address/0x779Ded0c9e1022225f8E0630b35a9b54bE713736) |
