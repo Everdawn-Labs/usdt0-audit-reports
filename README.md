@@ -1,6 +1,6 @@
 # USDT0 Audit Reports
 
-Deployment → report mapping for USDT0, XAUt0 and USAT (generated 2026-10-05).
+Deployment → report mapping for USDT0, XAUt0 and USAT (generated 2026-10-12).
 
 Contract names link to the deployed contract on the chain's explorer (the proxy where there is one). **Version** is the last change to the deployed contract's source (commit and date); **Audited by** lists the code audits covering that version. **Deployed** is the commit that recorded the deployment, or the creation transaction where no commit exists; **Deployment verified by** lists the reports that verified it on-chain, including reviews of an OFT's LayerZero wiring. Report IDs link to the report PDFs.
 
@@ -18,7 +18,7 @@ For all contract addresses, see the [USDT0 documentation](https://docs.usdt0.to/
 
 |  | Contract | Version (last change) | Audited by | Deployed | Deployment verified by |
 |---|---|---|---|---|---|
-| OFT | [OAdapterUpgradeable](https://etherscan.io/address/0xAEf027F94008430BF4Fc27FFABB49ea6F1dd3414) | `18c2b4d` 2025-01-04 | [CS-01](ChainSecurity/ChainSecurity_USDT0_audit.pdf), [GA-01](Guardian/2025-01-14_USDT0.pdf), [PA-01](Paladin/20250110_Paladin_Everdawn_Final_Report.pdf) | `c2f618b` 2026-08-26 |  |
+| OFT | [OAdapterUpgradeable](https://etherscan.io/address/0xAEf027F94008430BF4Fc27FFABB49ea6F1dd3414) | `18c2b4d` 2025-01-04 | [CS-01](ChainSecurity/ChainSecurity_USDT0_audit.pdf), [GA-01](Guardian/2025-01-14_USDT0.pdf), [PA-01](Paladin/20250110_Paladin_Everdawn_Final_Report.pdf) | `c2f618b` 2026-08-26 | [OZ-22](Openzeppelin/USDT0%20-%20%2304%20Retainer%20%2826%20IOTA%20OFT%20Adapter%20on%20Ethereum%20Config%20Review%29-report.pdf) |
 
 #### Arbitrum One
 
